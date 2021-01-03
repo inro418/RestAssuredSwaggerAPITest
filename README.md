@@ -1,0 +1,3 @@
+# RestAssuredSwaggerAPITest
+
+SwaggerUI APIs Test
